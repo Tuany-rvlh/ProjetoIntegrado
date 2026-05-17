@@ -18,6 +18,7 @@ Controle de entrada de alunos
 Gerenciamento de saídas temporárias
 Monitoramento em tempo real
 Geração de relatório final
+
 ⚙️ Tecnologias Utilizadas
 Tecnologia	Função
 STM32	Controle principal do sistema
@@ -25,6 +26,7 @@ Linguagem C	Programação embarcada
 ST7735	Interface gráfica
 GPIO	Leitura dos botões
 SPI	Comunicação com o display
+
 🔐 Sistema de Autenticação
 
 O sistema utiliza uma senha numérica aleatória de 4 dígitos.
@@ -64,6 +66,7 @@ O sistema permite controlar alunos temporariamente fora da sala.
 Botões utilizados
 🔘 Botão de saída
 🔘 Botão de retorno
+
 Regras
 Máximo de 3 alunos fora simultaneamente
 O sistema bloqueia:
@@ -89,6 +92,7 @@ Tempo total da aula
 ✔️ Tempo total da aula
 ✔️ Tempo médio fora da sala
 ✔️ Sistema de bloqueio por tentativas
+
 🧠 Estrutura do Código
 DigitarSenha();             // Entrada da senha
 InserirAlunos();            // Configuração inicial
@@ -110,4 +114,4 @@ A implementação das funcionalidades bônus tornou o sistema mais completo e pr
 
 🎥 Vídeo de Apresentação
 
-📌 Adicionar link do YouTube aqui
+📌[](https://youtu.be/OtP16_d4_kA?si=9tfjsw2aqqTeIU32)
