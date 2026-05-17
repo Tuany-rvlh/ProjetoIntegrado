@@ -88,6 +88,7 @@ Total de alunos
 Quantidade de saídas
 Tempo médio fora da sala
 Tempo total da aula
+
 ⏱️ Funcionalidades Extras (BÔNUS)
 ✔️ Tempo total da aula
 ✔️ Tempo médio fora da sala
