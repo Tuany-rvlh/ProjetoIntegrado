@@ -9,13 +9,9 @@ Sistema embarcado desenvolvido com STM32 para controle de presença em sala de a
 Mariana Ferreira
 Tuany Silva
 
----
-
 ## 🎓 Turma
 
 34DS
-
----
 
 ## 🎯 Objetivo
 
@@ -28,8 +24,6 @@ O sistema simula um ambiente real, permitindo:
 * Monitoramento em tempo real
 * Geração de relatório final
 
----
-
 ## ⚙️ Tecnologias Utilizadas
 
 * STM32 → Controle principal do sistema
@@ -37,8 +31,6 @@ O sistema simula um ambiente real, permitindo:
 * ST7735 → Interface gráfica
 * GPIO → Leitura dos botões
 * SPI → Comunicação com o display
-
----
 
 ## 🔐 Sistema de Autenticação
 
@@ -55,7 +47,6 @@ O sistema utiliza uma senha numérica aleatória de 4 dígitos.
 * Após erro: bloqueio temporário de 30 segundos
 * Após 3 bloqueios: 🚫 bloqueio permanente
 
----
 
 ## 👥 Configuração da Turma
 
@@ -71,7 +62,6 @@ Após a configuração:
 * ✅ O valor deve ser confirmado
 * 📺 O total é exibido no display
 
----
 
 ## 📋 Controle de Presença
 
@@ -84,7 +74,6 @@ O sistema faz uma simulação de leitura de matrícula, representando um leitor 
 * ✔️ Incrementa a quantidade de alunos presentes
 * ❌ Não permite ultrapassar o limite máximo definido
 
----
 
 ## 🚪 Controle de Saída
 
@@ -103,7 +92,6 @@ O sistema permite controlar alunos temporariamente fora da sala.
   * excesso de saídas
   * retornos inválidos
 
----
 
 ## 🖥️ Interface Gráfica
 
@@ -114,7 +102,6 @@ Durante a execução do sistema, o display apresenta:
 * ⚠️ Mensagens do sistema
 * 🔐 Informações de autenticação
 
----
 
 ## 📄 Relatório Final
 
@@ -125,7 +112,6 @@ Ao encerrar a aula, o sistema exibe um relatório contendo:
 * Tempo médio fora da sala
 * Tempo total da aula
 
----
 
 ## ⏱️ Funcionalidades Extras (BÔNUS)
 
@@ -133,7 +119,6 @@ Ao encerrar a aula, o sistema exibe um relatório contendo:
 * ✔️ Tempo médio fora da sala
 * ✔️ Sistema de bloqueio por tentativas
 
----
 
 ## 🧠 Estrutura do Código
 
