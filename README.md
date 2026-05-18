@@ -6,8 +6,8 @@ Sistema embarcado desenvolvido com STM32 para controle de presença em sala de a
 
 ## 👩‍💻 Integrantes
 
-Mariana Ferreira
-Tuany Silva
+Mariana Ferreira da Silva
+Tuany Silva Pereira
 
 ## 🎓 Turma
 
